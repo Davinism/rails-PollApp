@@ -1,1 +1,1 @@
-# rails-PollApp
+# PollApp
